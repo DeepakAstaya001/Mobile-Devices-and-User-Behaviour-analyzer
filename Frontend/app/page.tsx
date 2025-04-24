@@ -1,6 +1,5 @@
 import type { Metadata } from "next"
 import Dashboard from "@/components/dashboard"
-import PredictForm from '../components/PredictForm'; 
 
 export const metadata: Metadata = {
   title: "Mobile Device Usage and User Behavior Analysis",
@@ -13,8 +12,4 @@ export default function Home() {
       <Dashboard />
     </main>
   )
-}
-
-export default function Page() {
-  return <PredictForm />;
 }
