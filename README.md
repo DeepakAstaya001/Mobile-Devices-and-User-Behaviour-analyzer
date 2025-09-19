@@ -1,5 +1,5 @@
 
-# � Mobile Device Usage and User Behavior Analysis
+#  Mobile Device Usage and User Behavior Analysis
 
 A comprehensive full-stack application that analyzes mobile device usage patterns and predicts user behavior classifications using machine learning. The project combines data science, machine learning, and modern web development to provide insights into how users interact with their mobile devices.
 
